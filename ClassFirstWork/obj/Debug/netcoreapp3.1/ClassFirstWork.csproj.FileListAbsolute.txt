@@ -1,0 +1,14 @@
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\bin\Debug\netcoreapp3.1\ClassFirstWork.exe
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\bin\Debug\netcoreapp3.1\ClassFirstWork.deps.json
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\bin\Debug\netcoreapp3.1\ClassFirstWork.runtimeconfig.json
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\bin\Debug\netcoreapp3.1\ClassFirstWork.runtimeconfig.dev.json
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\bin\Debug\netcoreapp3.1\ClassFirstWork.dll
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\bin\Debug\netcoreapp3.1\ClassFirstWork.pdb
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\obj\Debug\netcoreapp3.1\ClassFirstWork.csproj.AssemblyReference.cache
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\obj\Debug\netcoreapp3.1\ClassFirstWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\obj\Debug\netcoreapp3.1\ClassFirstWork.AssemblyInfoInputs.cache
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\obj\Debug\netcoreapp3.1\ClassFirstWork.AssemblyInfo.cs
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\obj\Debug\netcoreapp3.1\ClassFirstWork.csproj.CoreCompileInputs.cache
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\obj\Debug\netcoreapp3.1\ClassFirstWork.dll
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\obj\Debug\netcoreapp3.1\ClassFirstWork.pdb
+C:\Users\mahammadmi\source\repos\ClassFirstWork\ClassFirstWork\obj\Debug\netcoreapp3.1\ClassFirstWork.genruntimeconfig.cache
